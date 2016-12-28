@@ -1,0 +1,4 @@
+// what to transpile using babel
+{
+	'presets':['latest','react','stage-0']
+}
